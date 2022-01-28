@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "name": "Ertalab yugurish",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Kitob o`qish",
+      "status": true,
+      "id": 3
+    },
+    {
+      "name": "1 soat kod yozish",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "Bozorga borish",
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "Ingiliz tilidan so'z yodlash",
+      "status": true,
+      "id": 6
+    }
+  ]
+}
